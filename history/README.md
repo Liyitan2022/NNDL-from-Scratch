@@ -2,7 +2,7 @@
 
 ## 深度学习三巨头 Mr.big
 
-1. Geoffrey Hinton
+**1. Geoffrey Hinton**
 
 (https://www.cs.toronto.edu/~hinton/)
 
@@ -10,7 +10,7 @@ UofT
 
 <img src="https://github.com/Liyitan2022/NNDL-from-Scratch/blob/main/history/images/hinton.png" width="100px">
 
-2. Yann LeCun
+**2. Yann LeCun**
 
 (https://engineering.nyu.edu/faculty/yann-lecun)
 
@@ -18,7 +18,7 @@ NYU
 
 <img src="https://github.com/Liyitan2022/NNDL-from-Scratch/blob/main/history/images/yann-lecun.jpg" width="100px">
 
-3. Yoshua Bengio
+**3. Yoshua Bengio**
 
 (https://yoshuabengio.org/)
 
@@ -26,7 +26,7 @@ UdeM
 
 <img src="https://github.com/Liyitan2022/NNDL-from-Scratch/blob/main/history/images/bengio.jpg" width="100px">
 
-4. Andrew Ng 吴恩达
+**4. Andrew Ng 吴恩达**
 
 (https://www.andrewng.org/)
 
@@ -34,7 +34,7 @@ Stanford
 
 <img src="https://github.com/Liyitan2022/NNDL-from-Scratch/blob/main/history/images/andrew-ng.jpg" width="100px">
 
-5. Kaiming He 何恺明
+**5. Kaiming He 何恺明**
 
 (http://kaiminghe.com/)
 
@@ -44,4 +44,28 @@ FAIR
 
 ## 深度学习三大公司
 
-1. OpenAI
+**1. DeepMind**
+
+(https://www.deepmind.com/)
+
+*AlphaTensor* (https://www.nature.com/articles/s41586-022-05172-4)
+
+*AlphaFold*
+
+*AlphaGO*
+
+**2. OpenAI**
+
+(https://openai.com/)
+
+*GPT-3*
+
+*DALL-E*
+
+**3. FAIR**
+
+Facebook AI Research Paris
+
+(https://about.fb.com/news/2015/06/introducing-facebook-ai-research-paris/)
+
+*DeepFace*
