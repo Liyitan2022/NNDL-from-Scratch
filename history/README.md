@@ -1,6 +1,7 @@
 # 深度学习历史
 
 ## 深度学习三巨头 Mr.big
+
 1. Geoffrey Hinton
 
 (https://www.cs.toronto.edu/~hinton/)
@@ -29,6 +30,8 @@ UdeM
 
 (https://www.andrewng.org/)
 
+Stanford
+
 <img src="https://github.com/Liyitan2022/NNDL-from-Scratch/blob/main/history/images/andrew-ng.jpg" width="100px">
 
 5. Kaiming He 何恺明
@@ -36,4 +39,9 @@ UdeM
 (http://kaiminghe.com/)
 
 FAIR
+
 <img src="https://github.com/Liyitan2022/NNDL-from-Scratch/blob/main/history/images/he.jpg" width="100px">
+
+## 深度学习三大公司
+
+1. OpenAI
