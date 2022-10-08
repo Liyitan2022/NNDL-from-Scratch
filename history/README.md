@@ -8,7 +8,7 @@
 
 UofT
 
-![image](https://github.com/Liyitan2022/NNDL-from-Scratch/tree/main/history/images)
+![image](https://github.com/Liyitan2022/NNDL-from-Scratch/blob/main/history/images/hinton.png)
 
 
 2.
