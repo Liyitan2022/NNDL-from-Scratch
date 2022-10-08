@@ -14,12 +14,12 @@ follow的课程：https://gitee.com/whu_mmap_cliang/Course_NNDL
 ## Network
 *1.感知机*
 
-**2.CNN**
+*2.CNN*
 
-3.RNN
+*3.RNN*
 
-4.LSTM
+*4.LSTM*
 
-5.GAN
+*5.GAN*
 
 ## Transformer
