@@ -7,7 +7,7 @@
 
 UofT
 
-![image](https://github.com/Liyitan2022/NNDL-from-Scratch/blob/main/history/images/hinton.png)
+<img src="https://github.com/Liyitan2022/NNDL-from-Scratch/blob/main/history/images/hinton.png" width="100px">
 
 2. Yann LeCun
 
@@ -15,7 +15,7 @@ UofT
 
 NYU
 
-![image](https://github.com/Liyitan2022/NNDL-from-Scratch/blob/main/history/images/yann-lecun.jpg)
+<img src="https://github.com/Liyitan2022/NNDL-from-Scratch/blob/main/history/images/yann-lecun.jpg" width="100px">
 
 3. Yoshua Bengio
 
@@ -23,18 +23,17 @@ NYU
 
 UdeM
 
-![image](https://github.com/Liyitan2022/NNDL-from-Scratch/blob/main/history/images/bengio.jpg)
+<img src="https://github.com/Liyitan2022/NNDL-from-Scratch/blob/main/history/images/bengio.jpg" width="100px">
 
 4. Andrew Ng 吴恩达
 
 (https://www.andrewng.org/)
 
-![image](https://github.com/Liyitan2022/NNDL-from-Scratch/blob/main/history/images/andrew-ng.jpg)
+<img src="https://github.com/Liyitan2022/NNDL-from-Scratch/blob/main/history/images/andrew-ng.jpg" width="100px">
 
 5. Kaiming He 何恺明
 
 (http://kaiminghe.com/)
 
 FAIR
-
-![image](https://github.com/Liyitan2022/NNDL-from-Scratch/blob/main/history/images/he.jpg)
+<img src="https://github.com/Liyitan2022/NNDL-from-Scratch/blob/main/history/images/he.jpg" width="100px">
