@@ -12,9 +12,9 @@ follow的课程：https://gitee.com/whu_mmap_cliang/Course_NNDL
 其余文件夹是一些常用深度学习网络，不一定有代码
 
 ## Network
-1.感知机
+*1.感知机*
 
-2.CNN
+**2.CNN**
 
 3.RNN
 
