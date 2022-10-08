@@ -1,5 +1,5 @@
-## 深度学习历史
-# 深度学习三巨头 Mr.big
+# 深度学习历史
+## 深度学习三巨头 Mr.big
 1. Geoffrey Hinton
 (https://www.cs.toronto.edu/~hinton/)
 UofT
