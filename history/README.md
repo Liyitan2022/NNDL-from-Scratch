@@ -10,7 +10,12 @@ UofT
 
 ![image](https://github.com/Liyitan2022/NNDL-from-Scratch/blob/main/history/images/hinton.png)
 
+2. Yann LeCun
 
-2.
+(https://engineering.nyu.edu/faculty/yann-lecun)
+
+NYU
+
+![image](https://github.com/Liyitan2022/NNDL-from-Scratch/blob/main/history/images/yann-lecun.jpg)
 
 3.
