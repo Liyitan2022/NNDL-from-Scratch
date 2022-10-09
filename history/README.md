@@ -44,7 +44,7 @@ FAIR
 
 **6. Fei-Fei Li 李飞飞**
 
-(https://cap.stanford.edu/profiles/viewCV?facultyId=15052&name=Fei-Fei_Li)/(https://profiles.stanford.edu/fei-fei-li)
+(https://cap.stanford.edu/profiles/viewCV?facultyId=15052&name=Fei-Fei_Li) or (https://profiles.stanford.edu/fei-fei-li)
 
 Stanford
 
