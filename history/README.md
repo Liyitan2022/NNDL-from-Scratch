@@ -66,9 +66,9 @@ Amazon
 
 *AlphaTensor* (https://www.nature.com/articles/s41586-022-05172-4)
 
-*AlphaFold*
+*AlphaFold* (https://www.nature.com/articles/s41586-021-03819-2)
 
-*AlphaGO*
+*AlphaGO* (https://www.nature.com/articles/nature16961)
 
 **2. OpenAI**
 
