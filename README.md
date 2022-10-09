@@ -22,4 +22,6 @@ follow的课程：https://gitee.com/whu_mmap_cliang/Course_NNDL
 
 *5.GAN*
 
-## Transformer
+*6.AutoEncoder*
+
+*7.Transformer*
