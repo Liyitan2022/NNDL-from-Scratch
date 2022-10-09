@@ -66,13 +66,13 @@ Amazon
 
 *AlphaTensor* (https://www.nature.com/articles/s41586-022-05172-4)
 
-*AlphaFold* (https://www.nature.com/articles/s41586-021-03819-2)
+*AlphaFold*
 
-*AlphaFold 1* (https://www.nature.com/articles/s41586-019-1923-7)
-
-*AlphaFold 2* (https://www.nature.com/articles/s41586-021-03819-2)
-
-*AlphaFold application* (https://www.nature.com/articles/s41586-021-03828-1)
+* *AlphaFold 1* (https://www.nature.com/articles/s41586-019-1923-7)
+  
+* *AlphaFold 2* (https://www.nature.com/articles/s41586-021-03819-2)
+  
+* *AlphaFold application* (https://www.nature.com/articles/s41586-021-03828-1)
 
 *AlphaGO* (https://www.nature.com/articles/nature16961)
 
