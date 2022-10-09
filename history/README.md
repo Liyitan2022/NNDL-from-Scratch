@@ -1,6 +1,6 @@
 # 深度学习历史
 
-## 深度学习三巨头 Mr.big
+## 深度学习Mr.big
 
 **1. Geoffrey Hinton**
 
@@ -41,6 +41,22 @@ Stanford
 FAIR
 
 <img src="https://github.com/Liyitan2022/NNDL-from-Scratch/blob/main/history/images/he.jpg" width="100px">
+
+**6. Fei-Fei Li 李飞飞**
+
+(https://cap.stanford.edu/profiles/viewCV?facultyId=15052&name=Fei-Fei_Li)/(https://profiles.stanford.edu/fei-fei-li)
+
+Stanford
+
+<img src="https://github.com/Liyitan2022/NNDL-from-Scratch/blob/main/history/images/lifeifei.jpg" width="100px">
+
+**7. 李沐**
+
+(https://space.bilibili.com/1567748478)
+
+Amazon
+
+<img src="https://github.com/Liyitan2022/NNDL-from-Scratch/blob/main/history/images/limu.jpg" width="100px">
 
 ## 深度学习三大公司
 
